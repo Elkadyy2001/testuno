@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "testt",
+  "display": "standalone",
+  "name": "testt",
+  "short_name": "testt",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
